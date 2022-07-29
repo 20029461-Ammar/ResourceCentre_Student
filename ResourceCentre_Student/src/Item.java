@@ -13,6 +13,7 @@ public class Item {
 	}
 
 	public String getAssetTag() {
+		//Ammar Putra - add comment
 		return assetTag;
 	}
 
