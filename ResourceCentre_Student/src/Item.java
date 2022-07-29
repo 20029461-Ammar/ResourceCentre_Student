@@ -17,6 +17,7 @@ public class Item {
 	}
 
 	public String getDescription() {
+		// Leticia - add comment 
 		return description;
 	}
 
