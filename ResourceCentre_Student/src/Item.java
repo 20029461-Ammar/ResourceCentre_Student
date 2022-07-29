@@ -35,6 +35,7 @@ public class Item {
 	}
 
 	public void setIsAvailable(boolean isAvailable) {
+		// andrea - add comment
 		this.isAvailable = isAvailable;
 	}
 }
